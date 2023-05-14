@@ -9,7 +9,7 @@ Create a RESTFUL API to store and read book information from MySQL database. The
    ISBN - ISBN of book 
    TITLE - Book Title 
    Year -  Year of publication
-   price - Price of Book 
+   Price - Price of Book 
    Genre - Genre of Book
 
 2. Author
@@ -19,7 +19,7 @@ Create a RESTFUL API to store and read book information from MySQL database. The
    Date - Date of birth of Author
    Book_ISBN - ISBN of the Book
 
-   there is a relationship between Book and Author linked by Book_ISBN, 1 book may have different authors and a author may have different books
+   There is a relationship between Book and Author linked by Book_ISBN, 1 book may have different authors and a author may have different books.
 
 3. Users (to store API User information)
    
